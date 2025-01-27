@@ -43,5 +43,5 @@ out/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
-!artifacts/app-ibank.jar
+!../patterns_2/artifacts/app-ibank.jar
 !artifacts/app-replan-delivery.jar
